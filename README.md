@@ -1,2 +1,2 @@
 # audioDSP
-Audio DSP - Facultad de Ingeniería UdelaR (Uruguay)
+Procesamiento Digital de Señales de Audio, Facultad de Ingeniería - UdelaR
